@@ -43,7 +43,7 @@ I work from clear requirements, share regular progress updates, and focus on mai
 ## Selected Work
 
 - **[Hush eBook Reader](https://rahimdev.net/portfolio/hush-ebook-reader)** — Flutter reading app with subscriptions, bookmarks, and a Node.js/MongoDB admin backend.
-- **[Shalom Artist](https://rahimdev.net/portfolio/shalom-artist)** — Native Android music app built with Java, featuring background and offline playback and a Laravel admin panel.
+- **[Tik Dating Video](https://rahimdev.net/portfolio/tik-dating-video)** — Native Android social dating app built with Java, featuring short videos, matching, and real-time chat, with a Laravel backend and Firebase authentication.
 - **[B3G TV](https://rahimdev.net/portfolio/b3g-tv)** — Flutter app for live TV and on-demand video, with Supabase, Cloudflare Stream, and RevenueCat subscriptions.
 
 [View all projects and case studies](https://rahimdev.net/portfolio)
