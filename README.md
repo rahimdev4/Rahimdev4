@@ -52,8 +52,17 @@ I work from clear requirements, share regular progress updates, and focus on mai
 
 ## GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahimdev4&amp;theme=radical" alt="GitHub activity statistics for rahimdev4" width="300" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahimdev4&amp;theme=radical" alt="Top languages by repository for rahimdev4" width="300" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rahimdev4&amp;theme=radical&amp;hide_border=true" alt="GitHub contribution streak for rahimdev4" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahimdev4&amp;label=Profile+Views&amp;color=FF796B&amp;style=flat-square" alt="Profile views for rahimdev4" />
 </p>
 
 ## Let's Work Together
