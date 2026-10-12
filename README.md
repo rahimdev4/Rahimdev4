@@ -58,7 +58,7 @@ I work from clear requirements, share regular progress updates, and focus on mai
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahimdev4&amp;theme=radical&amp;hide_border=true" alt="GitHub contribution streak for rahimdev4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahimdev4&amp;theme=radical&amp;hide_border=true" alt="GitHub contribution streak for rahimdev4" />
 </p>
 
 <p align="center">
