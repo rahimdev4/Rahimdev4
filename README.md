@@ -1,105 +1,65 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF7062&center=true&vCenter=true&repeat=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Rahim+Ullah;Flutter+Developer+%7C+QA+Engineer;Founder+of+SparkDevX" alt="Typing SVG" />
-</h1>
+<h1 align="center">Rahim Ullah</h1>
+
+<p align="center"><strong>Full Stack Mobile Developer · Founder of SparkDevX</strong></p>
 
 <p align="center">
-  <a href="https://rahimdev.net"><img src="https://img.shields.io/badge/Portfolio-%23FF7062.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rahim Ullah's Portfolio" /></a>
-  <a href="https://sparkdevx.com"><img src="https://img.shields.io/badge/SparkDevX-%23FF7062.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/rahim-u4"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/rahimdev_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:info@rahimdev.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-**Top rated seller on Fiverr and Upwork**
-
-#### I Build Apps That Stand Out & Deliver Results
-
-I'm **Rahim Ullah**, a **Flutter and Android developer** based in **Islamabad, Pakistan**. I build production-ready mobile apps and backend solutions with **Laravel** and **Node.js** for businesses worldwide.
-
-With **3+ years** of experience in mobile development and QA, I help turn ideas into scalable, user-friendly applications with clean UI/UX, thorough testing, and store-ready delivery.
-
-I'm the founder of **[SparkDevX](https://sparkdevx.com)**, where I help clients transform their ideas into real-world applications.
-
-Currently building cross-platform apps with **Flutter** and **Kotlin Multiplatform**, while exploring **Jetpack Compose**, **KMP**, and **AI Integration** in mobile apps.
-
-📍 **Based in Islamabad, Pakistan · Available worldwide**
-
-📫 **info@rahimdev.net** · **rahim@sparkdevx.com**
-
----
-
-### Tech Stack
-
-**Languages and Frameworks**
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/KMP-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%235FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Backend and Databases**
-
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23FF6F00.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Cloud and Hosting**
-
-![VPS](https://img.shields.io/badge/VPS-%23232F3E.svg?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-**AI**
-
-![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google%20AI-%234285F4.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-
-**Development and Design Tools**
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahimdev4&theme=radical" alt="GitHub Stats" height="170"/>
-  </picture>
-  <picture>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahimdev4&theme=radical" alt="Top Languages by Repository" height="170"/>
-  </picture>
+  Full Stack Mobile Developer | Flutter, Android, Kotlin &amp; Jetpack Compose | Node.js &amp; Laravel Backend | ASO &amp; App Launch Expert | Production Ready Apps
 </p>
 
 <p align="center">
-  <picture>
-    <img src="https://streak-stats.demolab.com?user=rahimdev4&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  </picture>
+  <a href="https://rahimdev.net/"><img src="https://img.shields.io/badge/Portfolio-FF796B?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rahimdev-/"><img src="https://img.shields.io/badge/LinkedIn-FF796B?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://sparkdevx.com/"><img src="https://img.shields.io/badge/SparkDevX-FF796B?style=flat-square" alt="SparkDevX" /></a>
+  <a href="https://rahimdev.net/contact"><img src="https://img.shields.io/badge/Contact-FF796B?style=flat-square" alt="Contact" /></a>
 </p>
 
----
+## About
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahimdev4&label=Profile+Views&color=FF7062&style=flat-square" alt="Profile Views" />
+I'm Rahim Ullah, the developer behind **RahimDev**. Based in **G-11, Islamabad, Pakistan**, I build production-ready mobile apps and backend systems for businesses worldwide.
+
+My work spans Flutter apps for Android and iOS, native Android development with Kotlin, Java, and Jetpack Compose, and Node.js and Laravel backends, APIs, and admin panels. I also help with subscriptions, monetization, app store optimization (ASO), and launch preparation.
+
+I work from clear requirements, share regular progress updates, and focus on maintainable implementation. Testing and release preparation are part of the delivery process.
+
+[More about me](https://rahimdev.net/about)
+
+## What I Build
+
+- **Flutter applications** for Android and iOS.
+- **Native Android applications** with Kotlin, Java, and Jetpack Compose.
+- **Backend APIs and admin panels** with Node.js, Express.js, and Laravel.
+- **Payments, subscriptions, and integrations** that connect apps to the services they need.
+- **App improvements, ASO, and launch support**, including testing and store preparation.
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| Mobile | Flutter, Dart, Android, Kotlin, Java, Jetpack Compose |
+| Backend | Node.js, Express.js, Laravel, PHP, REST APIs |
+| Data and services | Firebase, Supabase, PostgreSQL, MySQL, MongoDB |
+| Tools | Git, GitHub, Android Studio, Xcode, VS Code, Figma |
+
+## Selected Work
+
+- **[Hush eBook Reader](https://rahimdev.net/portfolio/hush-ebook-reader)** — Flutter reading app with subscriptions, bookmarks, and a Node.js/MongoDB admin backend.
+- **[Shalom Artist](https://rahimdev.net/portfolio/shalom-artist)** — Native Android music app built with Java, featuring background and offline playback and a Laravel admin panel.
+- **[B3G TV](https://rahimdev.net/portfolio/b3g-tv)** — Flutter app for live TV and on-demand video, with Supabase, Cloudflare Stream, and RevenueCat subscriptions.
+
+[View all projects and case studies](https://rahimdev.net/portfolio)
+
+**Open source:** [App Store Audit Skill](https://github.com/rahimdev4/app-store-audit-skill) provides instructions and checklists for AI coding assistants to identify potential App Store and Google Play submission issues.
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahimdev4&amp;theme=radical" alt="GitHub activity statistics for rahimdev4" width="300" height="170" />
 </p>
 
-<p align="center">
-  <b>Let's build something amazing together! 🚀</b><br/>
-  <a href="https://rahimdev.net">rahimdev.net</a> · <a href="https://sparkdevx.com">sparkdevx.com</a> · <a href="mailto:info@rahimdev.net">info@rahimdev.net</a>
-</p>
+## Let's Work Together
+
+Have an app idea or an existing product to improve? Let's discuss the scope and next steps.
+
+**G-11, Islamabad, Pakistan · Available for remote projects worldwide**
+
+[Discuss a project](https://rahimdev.net/contact) · [info@rahimdev.net](mailto:info@rahimdev.net)
